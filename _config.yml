@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Alberto Jimenez
-tagline:             Hassle free computing
+tagline:             Developing hassle free
 url:                 http://albertojimenez.org
 paginate:            1
 baseurl:             "http://albertojimenez.org"
