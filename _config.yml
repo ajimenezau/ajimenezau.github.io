@@ -9,7 +9,7 @@ title:               Alberto Jimenez
 tagline:             Hassle free computing
 url:                 http://albertojimenez.org
 paginate:            1
-baseurl:             http://albertojimenez.org
+baseurl:             "http://albertojimenez.org"
 
 # Assets
 #
